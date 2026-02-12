@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cybersecurity engineering student specialized in Web Exploitation & Application Security.<br>CTF competitor with strong focus on offensive security and vulnerability analysis.<br><br>⚙️ Hands-on Experience:<br><br>  🌐 Web Pentesting (OWASP Top 10)<br><br>  📊 SIEM Deployment (Wazuh)<br><br>  📡 Network Monitoring (Zabbix)<br><br>  🧱 Secure Lab Architecture Design<br><br> Driven by curiosity, precision, and continuous improvement.
+Cybersecurity engineering student specialized in Web Exploitation & Application Security.<br>CTF competitor with strong focus on offensive security and vulnerability analysis.<br><br>⚙️ Hands-on Experience:<br><br>  🌐 Web Pentesting (OWASP Top 10)<br>  📊 SIEM Deployment (Wazuh)<br>  📡 Network Monitoring<br>   🧱 Secure Lab Architecture Design<br><br> Driven by curiosity, precision, and continuous improvement.
 
 
 ## 🌐 Socials:
